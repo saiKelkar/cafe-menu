@@ -48,6 +48,7 @@ hr {
   margin-top: 25px;
 }
 
+/*serif is a fallback font, in case Impact font isn't available, then the browser uses serif, hence fallback*/
 h1, h2 {
   font-family: Impact, serif;
 }
